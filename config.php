@@ -1,9 +1,9 @@
 <?php
 
-$hostname     = "localhost";
-$username     = "qua59_admin";
-$password     = "quangvinh";
-$databasename = "qua59b77_amnhac";
+$hostname     = "webbanhang.cjoe08s4kpvt.ap-southeast-2.rds.amazonaws.com";
+$username     = "admin";
+$password     = "Pkt285941";
+$databasename = "banhang";
 $visitorTimeout = 900; // =15 * 60 Download source mien phi tai Sharecode.vn
 
 $MAXPAGE = 10;
